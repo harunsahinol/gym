@@ -47,6 +47,27 @@ To run this project locally, follow these steps:
 
 The app should now be running on `http://localhost:3000`.
 
-## Project Structure
 
-The project has the following structure:
+## Usage
+
+1. **Search for Exercises**: Use the search bar to find exercises based on name, target muscle, equipment, or body part.
+2. **View Exercise Details**: Click on an exercise to view detailed information.
+3. **Watch Exercise Videos**: Scroll down to watch videos related to the selected exercise.
+4. **Explore Similar Exercises**: Get recommendations for similar exercises.
+
+## License
+
+This project is open-source and available under the MIT License.
+
+## Acknowledgments
+
+- Thanks to [RapidAPI](https://rapidapi.com/) for providing the exercise data API.
+- Thanks to [Material-UI](https://mui.com/) for providing an excellent UI component library.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out!
+
+- Email: mehmethsh@gmail.com
+- LinkedIn: [Mehmet Harun Şahinol](https://www.linkedin.com/in/harun-sahinol/)
+
